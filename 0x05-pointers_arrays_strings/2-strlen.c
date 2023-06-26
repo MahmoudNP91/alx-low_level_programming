@@ -1,5 +1,9 @@
 #include "main.h"
 
+/*
+ * m
+ */
+
 int _strlen(char *s)
 {
 	int cnt;
